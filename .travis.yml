@@ -1,5 +1,5 @@
-# resources:
-#   http://genbattle.bitbucket.org/blog/2016/01/17/c++-travis-ci/
+!#resources:
+#!  http://genbattle.bitbucket.org/blog/2016/01/17/c++-travis-ci/
 #   https://github.com/genbattle/dkm/blob/master/.travis.yml
 #   https://jonasw.de/blog/2015/07/22/develop/cplusplus14-on-travis-with-cmake/
 
@@ -30,3 +30,4 @@ script:
     - make debug=1
     - make test
 
+ 
